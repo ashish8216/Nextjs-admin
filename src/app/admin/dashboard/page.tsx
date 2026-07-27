@@ -1,5 +1,9 @@
+import DashboardLayout from "./layout";
+
 export default function Dashboard() {
     return (
-        <div>ggjh</div>
+        <DashboardLayout>
+            hhhh
+        </DashboardLayout>
     );
 }
